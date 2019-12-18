@@ -1,6 +1,6 @@
 {
   "name": "@fabulas/astly",
-  "version": "0.0.21-beta.7",
+  "version": "0.0.21",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -95,6 +95,5 @@
     "unist-util-visit-parents": "^3.0.1",
     "webpack-bundle-analyzer": "^3.6.0",
     "webpack-node-externals": "^1.7.2"
-  },
-  "dependencies": {}
+  }
 }
